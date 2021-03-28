@@ -1,5 +1,7 @@
 # Storage
 
+[![Tests](https://github.com/WilsonGramer/storage/actions/workflows/test.yml/badge.svg)](https://github.com/WilsonGramer/storage/actions/workflows/test.yml)
+
 Simple and type-safe global storage management.
 
 This example shows how to store a list of `Person` values:
